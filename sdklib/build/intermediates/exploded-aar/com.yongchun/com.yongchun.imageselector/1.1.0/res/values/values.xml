@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar_grey">#393a3e</color>
+    <color name="bar_grey_90">#dd393a3e</color>
+    <color name="black">#000000</color>
+    <color name="black_3">#333333</color>
+    <color name="content_grey">#353535</color>
+    <color name="divider_color">#dcdcdc</color>
+    <color name="green">#43c117</color>
+    <color name="green_70">#AD43c117</color>
+    <color name="grey">#999999</color>
+    <color name="image_overlay">#20000000</color>
+    <color name="image_overlay2">#80000000</color>
+    <color name="white">#ffffff</color>
+    <color name="white_70">#ADFFFFFF</color>
+    <dimen name="bar_height">48dp</dimen>
+    <dimen name="big_image_size">74dp</dimen>
+    <dimen name="btn_height">32dp</dimen>
+    <dimen name="btn_radius">2dp</dimen>
+    <dimen name="margin_layout">16dp</dimen>
+    <dimen name="margin_text">8dp</dimen>
+    <dimen name="middle_text_size">17sp</dimen>
+    <dimen name="min_button_width">52dp</dimen>
+    <dimen name="mini_text_size">13sp</dimen>
+    <dimen name="small_text_size">15sp</dimen>
+    <dimen name="status_bar_height">25dp</dimen>
+    <string name="all_image">All Images</string>
+    <string name="app_name">Library</string>
+    <string name="choose">Select</string>
+    <string name="done">Done</string>
+    <string name="done_num">Done(%1$s/%2$s)</string>
+    <string name="message_max_num">Up to %1$s photos can be selected</string>
+    <string name="num_postfix">%1$s</string>
+    <string name="picture">Images</string>
+    <string name="preview">Preview</string>
+    <string name="preview_num">Preview(%1$s)</string>
+    <string name="save_ing">Saving picture…</string>
+    <string name="take_picture">Take Photo</string>
+    <string name="use">OK</string>
+    <style name="MyToolbar" parent="android:Widget">
+        <item name="titleTextAppearance">@style/ToolBarTitle</item>
+        <!--<item name="subtitleTextAppearance">@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle</item>-->
+        <item name="android:minHeight">48dp</item>
+        <item name="titleMargins">4dp</item>
+        <item name="maxButtonHeight">56dp</item>
+        <item name="collapseIcon">?attr/homeAsUpIndicator</item>
+        <!--<item name="collapseContentDescription">@string/abc_toolbar_collapse_description</item>-->
+        <item name="contentInsetStart">16dp</item>
+        <!--<item name="android:paddingLeft">@dimen/abc_action_bar_default_padding_start_material</item>-->
+        <!--<item name="android:paddingRight">@dimen/abc_action_bar_default_padding_end_material</item>-->
+    </style>
+    <style name="ToolBarTitle" parent="android:Widget">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="WindowStyle">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+</resources>

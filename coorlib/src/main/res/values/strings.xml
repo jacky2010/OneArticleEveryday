@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoorLib</string>
+    <string name="loading">网络加载错误</string>
+    <string name="define_behavior">com.nuoda.coorlib.behavior.DefineBehavior</string>
+</resources>

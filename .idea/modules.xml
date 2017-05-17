@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/OneArticleEveryday.iml" filepath="$PROJECT_DIR$/OneArticleEveryday.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coorlib/coorlib.iml" filepath="$PROJECT_DIR$/coorlib/coorlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdklib/sdklib.iml" filepath="$PROJECT_DIR$/sdklib/sdklib.iml" />
     </modules>
   </component>
 </project>
