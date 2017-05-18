@@ -12,8 +12,28 @@
         "source": "E:\\Slb\\Slb\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_checked.png"
     },
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_placeholder.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_radio_button.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_radio_button.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_arrow.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_arrow.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_arrow.png",
         "source": "E:\\Slb\\Slb\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_check.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_check.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_checked.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\sdklib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_checked.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\sdklib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_radio_button.png",

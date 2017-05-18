@@ -8,6 +8,18 @@
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\logo.png"
     },
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_radio_button.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_radio_button.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_arrow.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\logo.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\logo.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_arrow.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_arrow.png"
     },
@@ -16,8 +28,24 @@
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\touxiang.png"
     },
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_check.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_check.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_placeholder.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_placeholder.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_checked.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_checked.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_checked.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xxhdpi-v4\\ic_checked.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\touxiang.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xxhdpi-v4\\touxiang.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xxhdpi-v4\\ic_radio_button.png",

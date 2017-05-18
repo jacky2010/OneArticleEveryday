@@ -1,7 +1,15 @@
 [
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\dynamic_default_bg.jpg",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\dynamic_default_bg.jpg"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\loader_error.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\loader_error.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\loader_error.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\loader_error.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\splash_one.jpg",
@@ -10,6 +18,14 @@
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\dynamic_default_bg.jpg",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\dynamic_default_bg.jpg"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\replay_btn_bg.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\replay_btn_bg.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\splash_one.jpg",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap\\splash_one.jpg"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap\\replay_btn_bg.png",

@@ -1,11 +1,35 @@
 [
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\ic_camera.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xhdpi-v4\\ic_camera.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\loadingweb_nonet.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\loadingweb_nonet.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\fanhui.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\fanhui.png"
     },
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\ic_back.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\msg_group.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\msg_group.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\logo.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\logo.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\loadingweb_servererror.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\loadingweb_servererror.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\ic_person_hover.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\ic_person_hover.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\default_group.png",
@@ -14,6 +38,14 @@
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\ic_back.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\exploded-aar\\com.yongchun\\com.yongchun.imageselector\\1.1.0\\res\\mipmap-xhdpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\default_group.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\default_group.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\logo.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\logo.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\ic_camera.png",
@@ -28,8 +60,16 @@
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\ic_person_hover.png"
     },
     {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\fanhui.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\fanhui.png"
+    },
+    {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\loadingweb_nonet.png",
         "source": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\loadingweb_nonet.png"
+    },
+    {
+        "merged": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\loadingweb_nodata.png",
+        "source": "E:\\NRFTest\\OneArticleEveryday\\coorlib\\build\\intermediates\\bundles\\debug\\res\\mipmap-xhdpi-v4\\loadingweb_nodata.png"
     },
     {
         "merged": "E:\\Slb\\Slb\\coorlib\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-xhdpi-v4\\loadingweb_nodata.png",
