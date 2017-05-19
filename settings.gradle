@@ -1,1 +1,1 @@
-include ':app', ':coorlib', ':sdklib'
+include ':app', ':baseframework'
