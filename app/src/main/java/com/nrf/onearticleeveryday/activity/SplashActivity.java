@@ -1,7 +1,9 @@
-package com.nrf.onearticleeveryday;
+package com.nrf.onearticleeveryday.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.nrf.onearticleeveryday.R;
 
 public class SplashActivity extends AppCompatActivity {
 
@@ -9,5 +11,6 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
     }
 }
