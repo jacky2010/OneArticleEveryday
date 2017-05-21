@@ -23,7 +23,6 @@ import com.base.framework.utils.RequestPermissionUtils;
 import com.base.framework.utils.SharedPreferencesUtils;
 import com.base.framework.utils.ToastUtils;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Locale;
@@ -129,39 +128,6 @@ public class BaseActivity extends AppCompatActivity {
 
     }
 
-
-    /**
-     * 设置显示第几张图片
-     *
-     * @param position 图片下标，从零开始
-     */
-    protected void setShowPic(final int position) {
-        if (guideRes != null && position < guideRes.size() && ((boolean) SharedPreferencesUtils.get(context, tagName + position, true))) {
-            guideImage.setVisibility(View.VISIBLE);
-            guideImage.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    SharedPreferencesUtils.put(context, tagName + position, false);
-                    guideImage.setVisibility(View.GONE);
-                }
-            });
-            guideImage.setImageDrawable(getResources().getDrawable(guideRes.get(position)));
-        }
-
-    }
-
-    /**
-     * 设置引导图片的id，可以一次设置多个
-     *
-     * @param ids
-     */
-    protected void setGuideRes(int... ids) {
-        guideRes = new ArrayList<>();
-        for (int i : ids) {
-            guideRes.add(i);
-        }
-    }
-
     @Override
     protected void onPause() {
         HttpClientManager.cancleRequset(tagName);
@@ -196,7 +162,6 @@ public class BaseActivity extends AppCompatActivity {
             HttpClientManager.cancleRequset(tagName);
             activities.remove(this);
         }
-//        EntryProxy.clearAllData();
     }
 
     /**

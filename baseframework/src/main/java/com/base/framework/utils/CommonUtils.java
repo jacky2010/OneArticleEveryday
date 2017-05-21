@@ -15,11 +15,13 @@ public class CommonUtils {
      * @return
      */
     public static String getDate() {
-        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        //SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
         return format.format(new java.util.Date());
     }
+
     /**
-     * 获取制定路径下的缓存文件
+     * 获取指定路径下的缓存文件
      *
      * @param file
      * @return
@@ -42,6 +44,7 @@ public class CommonUtils {
         }
         return size;
     }
+
     /**
      * 根据指定路径删除文件
      *
@@ -76,4 +79,5 @@ public class CommonUtils {
         }
 
     }
+
 }

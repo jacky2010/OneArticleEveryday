@@ -17,13 +17,13 @@ import java.io.ObjectOutputStream;
  */
 public class ObjectsSerializableUtils {
     /**
-     * 将实体类序列化
+     * 将实体类序列化并缓存
      * @param t
      * @param fileName
      * @param <T>
      */
     public static <T> void serializeObj(T t, String fileName) {
-        File file = new File(App.getContext().getFilesDir().getAbsolutePath() + "/" + AppContacts.USER_SERIALIZE_NAME);
+        File file = new File(App.getContext().getFilesDir().getAbsolutePath() + File.separator + AppContacts.USER_SERIALIZE_NAME);
         try {
             FileOutputStream fileOutputStream = new FileOutputStream(file);
             ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
@@ -44,7 +44,7 @@ public class ObjectsSerializableUtils {
      * @return
      */
     public static <T> T getCacheObj(String fileName) {
-        File file = new File(App.getContext().getFilesDir().getAbsolutePath() + "/" + AppContacts.USER_SERIALIZE_NAME);
+        File file = new File(App.getContext().getFilesDir().getAbsolutePath() + File.separator + AppContacts.USER_SERIALIZE_NAME);
         try {
             if (file.exists()) {
                 FileInputStream fileOutputStream = new FileInputStream(file);
