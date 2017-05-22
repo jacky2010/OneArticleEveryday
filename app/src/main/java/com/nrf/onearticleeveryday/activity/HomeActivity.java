@@ -1,5 +1,8 @@
 package com.nrf.onearticleeveryday.activity;
 
+import android.content.Context;
+
+import com.base.framework.interfaces.BaseView;
 import com.base.framework.ui.BaseNoErrorMsgActivity;
 import com.nrf.onearticleeveryday.R;
 
@@ -12,7 +15,7 @@ import com.nrf.onearticleeveryday.R;
  * Description: //TODO
  * Copyright notice:
  */
-public class HomeActivity extends BaseNoErrorMsgActivity {
+public class HomeActivity extends BaseNoErrorMsgActivity implements BaseView {
     @Override
     protected int getLayoutId() {
         return R.layout.activity_home;
@@ -31,5 +34,20 @@ public class HomeActivity extends BaseNoErrorMsgActivity {
     @Override
     protected void bindListener() {
 
+    }
+
+    @Override
+    public void setPresenter(Object presenter) {
+
+    }
+
+    @Override
+    public Context setReqContext() {
+        return null;
+    }
+
+    @Override
+    public String setTagName() {
+        return null;
     }
 }

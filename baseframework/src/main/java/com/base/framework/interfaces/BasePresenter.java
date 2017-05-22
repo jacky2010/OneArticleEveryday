@@ -15,4 +15,6 @@ public interface BasePresenter {
      * @param tagName
      */
     void cancleAllRequest(String tagName);
+
+    void getArticleInfo();
 }
